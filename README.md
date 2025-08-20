@@ -88,7 +88,6 @@ cd example/cublas_example && mkdir build && cd build && cmake .. && make && ./cu
 - 知乎/博客/专栏若干链接（详见各子目录 README）
 - 《cuda 编程基础与实践》（樊哲勇）
 
-### 许可证
-当前未设置许可证。如需开源分发，建议在仓库根目录添加 `LICENSE`（例如 MIT/Apache-2.0/BSD-3-Clause）。
+
 
 
